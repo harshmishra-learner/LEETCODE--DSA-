@@ -47,6 +47,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [1470-shuffle-the-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 <!---LeetCode Topics End-->
