@@ -37,3 +37,15 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ├── 05-Trees-and-Graphs/
 ├── 06-Dynamic-Programming/
 └── README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+<!---LeetCode Topics End-->
