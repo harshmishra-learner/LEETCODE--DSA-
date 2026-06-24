@@ -90,6 +90,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
