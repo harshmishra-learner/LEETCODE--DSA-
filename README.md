@@ -106,6 +106,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
@@ -174,6 +175,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
@@ -209,4 +211,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
