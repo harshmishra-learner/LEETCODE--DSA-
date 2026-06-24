@@ -63,6 +63,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
