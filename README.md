@@ -15,9 +15,9 @@ Welcome to my dedicated Data Structures and Algorithms (DSA) repository! This sp
 
 | Difficulty | Solved | Target | Status |
 | :--- | :--- | :--- | :--- |
-| 🟢 **Easy** | 0 | 200 | ⏳ In Progress |
-| 🟡 **Medium** | 0 | 300 | ⏳ In Progress |
-| 🔴 **Hard** | 0 | 50 | ⏳ In Progress |
+| 🟢 **Easy** | 32 | 200 | ⏳ In Progress |
+| 🟡 **Medium** | 41| 300 | ⏳ In Progress |
+| 🔴 **Hard** | 5| 50 | ⏳ In Progress |
 | 🏆 **Total** | **0** | **550** | — |
 
 ---
