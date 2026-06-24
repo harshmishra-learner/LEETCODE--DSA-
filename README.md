@@ -113,6 +113,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
@@ -265,4 +266,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
