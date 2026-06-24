@@ -107,6 +107,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -172,4 +175,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
