@@ -44,6 +44,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
@@ -137,4 +138,12 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
