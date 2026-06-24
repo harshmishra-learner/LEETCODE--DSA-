@@ -67,6 +67,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -87,6 +88,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -178,6 +180,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
