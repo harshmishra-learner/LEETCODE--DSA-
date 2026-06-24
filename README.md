@@ -124,6 +124,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -199,6 +200,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
