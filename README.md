@@ -45,6 +45,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
@@ -95,6 +96,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
