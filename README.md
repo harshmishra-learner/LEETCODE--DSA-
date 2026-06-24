@@ -110,6 +110,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -168,6 +169,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Trie
