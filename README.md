@@ -64,6 +64,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -125,6 +126,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0443-string-compression/) | Medium |
@@ -179,6 +181,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -247,4 +250,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
