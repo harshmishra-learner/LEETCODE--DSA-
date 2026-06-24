@@ -159,6 +159,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
@@ -190,6 +191,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
@@ -214,6 +216,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
