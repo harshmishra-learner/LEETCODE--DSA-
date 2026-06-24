@@ -118,6 +118,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
@@ -284,5 +285,6 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
