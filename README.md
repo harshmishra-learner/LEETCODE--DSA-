@@ -45,6 +45,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1470-shuffle-the-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -74,6 +75,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
