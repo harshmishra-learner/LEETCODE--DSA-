@@ -60,6 +60,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
@@ -88,6 +89,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -183,6 +185,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -229,6 +232,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
