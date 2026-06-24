@@ -181,6 +181,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0796-rotate-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -215,4 +216,5 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
