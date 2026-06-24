@@ -48,6 +48,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
@@ -123,6 +124,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
@@ -145,6 +147,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
@@ -170,6 +173,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
