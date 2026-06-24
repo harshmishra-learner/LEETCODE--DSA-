@@ -47,6 +47,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -67,6 +68,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 ## Simulation
