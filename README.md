@@ -124,6 +124,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
@@ -143,6 +144,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -195,6 +197,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
