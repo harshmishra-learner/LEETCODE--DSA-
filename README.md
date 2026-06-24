@@ -49,6 +49,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
@@ -80,11 +81,13 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
