@@ -120,6 +120,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
