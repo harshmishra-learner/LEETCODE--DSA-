@@ -118,6 +118,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
@@ -156,6 +157,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
@@ -175,6 +177,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -287,4 +290,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
