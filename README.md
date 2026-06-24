@@ -49,6 +49,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -76,6 +77,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
