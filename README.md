@@ -129,6 +129,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -303,6 +304,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
