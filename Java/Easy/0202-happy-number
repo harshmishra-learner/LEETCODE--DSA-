@@ -1,0 +1,68 @@
+# Happy Number
+
+## Problem Description
+
+Write an algorithm to determine if a number $n$ is "happy".
+
+A happy number is a number defined by the following process:
+
+* Starting with any positive integer, replace the number by the sum of the squares of its digits.
+* Repeat the process until the number equals 1 (where it will stay), or it **loops endlessly in a cycle** which does not include 1.
+* Those numbers for which this process **ends in 1** are happy.
+
+Return `true` if $n$ is a happy number, and `false` if not.
+
+---
+
+## Solution Approach: Floyd's Cycle Finding Algorithm
+
+An elegant way to solve this problem without using extra memory (like a HashSets to track seen numbers) is **Floyd's Cycle Finding Algorithm** (also known as the **Tortoise and the Hare** approach).
+
+### Intuition
+
+The process of summing the squares of digits can only lead to two outcomes:
+
+1. The number eventually becomes `1` and stays at `1`.
+2. The numbers enter a repeating cycle that never reaches `1`.
+
+By tracking two pointers—a `slow` runner that advances by **1 step** (computes the next configuration once) and a `fast` runner that advances by **2 steps** (computes the next configuration twice)—we can easily detect a cycle. If there is a loop, the `fast` runner will eventually catch up to the `slow` runner. If the `fast` runner hits `1`, then the number is happy.
+
+---
+
+## Code Implementation (Java)
+
+```java
+class Solution {
+    public boolean isHappy(int n) {
+        int slow = n;
+        int fast = getNext(n);
+        
+        while (fast != 1 && slow != fast) {
+            slow = getNext(slow);             // Moves 1 step
+            fast = getNext(getNext(fast));    // Moves 2 steps
+        }
+        
+        return fast == 1;
+    }
+    
+    private int getNext(int n) {
+        int totalSum = 0;
+        while (n > 0) {
+            int d = n % 10;
+            totalSum += d * d;
+            n = n / 10;
+        }
+        return totalSum;
+    }
+}
+
+```
+
+---
+
+## Complexity Analysis
+
+* **Time Complexity:** $\mathcal{O}(\log n)$
+The number of digits in a number $n$ is given by $\log_{10}(n)$. Finding the next value takes time proportional to the number of digits. The chain of numbers either transitions down quickly to a small cycle or reaches 1 in a small logarithmic number of steps.
+* **Space Complexity:** $\mathcal{O}(1)$
+Unlike the HashSet approach which scales with the number of unique sums generated, the slow/fast pointer approach operates purely with a few tracking variables, utilizing constant extra space.
