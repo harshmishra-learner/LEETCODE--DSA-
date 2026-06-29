@@ -266,6 +266,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -320,6 +321,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
