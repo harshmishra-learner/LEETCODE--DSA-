@@ -72,6 +72,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -269,6 +270,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0155-min-stack](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -327,4 +329,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
