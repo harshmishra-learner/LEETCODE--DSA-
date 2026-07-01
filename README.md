@@ -59,6 +59,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
@@ -88,6 +89,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
@@ -267,6 +269,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
