@@ -231,6 +231,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0704-binary-search/) | Easy |
@@ -352,4 +353,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
