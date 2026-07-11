@@ -95,6 +95,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -233,6 +234,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0278-first-bad-version/) | Easy |
