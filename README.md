@@ -63,6 +63,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
@@ -235,6 +236,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0033-search-in-rotated-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0278-first-bad-version/) | Easy |
