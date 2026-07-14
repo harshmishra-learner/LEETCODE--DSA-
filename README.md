@@ -50,6 +50,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
@@ -370,5 +371,6 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
