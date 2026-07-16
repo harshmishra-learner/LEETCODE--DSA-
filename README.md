@@ -316,6 +316,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,4 +375,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0046-permutations](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
