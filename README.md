@@ -205,6 +205,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -262,6 +263,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0008-string-to-integer-atoi](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
@@ -373,6 +375,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
 ## Depth-First Search
