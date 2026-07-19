@@ -102,6 +102,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
@@ -211,6 +212,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/3193-count-the-number-of-inversions/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -353,6 +355,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0203-remove-linked-list-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +390,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
