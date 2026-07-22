@@ -89,6 +89,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -123,6 +124,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -259,6 +261,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0704-binary-search](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
