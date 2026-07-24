@@ -100,6 +100,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
