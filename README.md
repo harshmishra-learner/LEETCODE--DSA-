@@ -101,6 +101,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -226,6 +227,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0013-roman-to-integer/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -279,6 +281,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0022-generate-parentheses/) | Medium |
