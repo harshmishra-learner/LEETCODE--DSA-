@@ -347,6 +347,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -358,6 +359,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
@@ -419,6 +421,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -436,4 +439,5 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
