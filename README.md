@@ -88,6 +88,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -112,6 +113,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Prefix Sum
@@ -230,6 +232,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/3193-count-the-number-of-inversions/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -451,4 +454,16 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0101-symmetric-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
