@@ -109,6 +109,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0013-roman-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
@@ -139,6 +140,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Linked List
@@ -300,6 +302,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
@@ -380,6 +383,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
