@@ -66,6 +66,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0084-largest-rectangle-in-histogram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -234,6 +235,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
