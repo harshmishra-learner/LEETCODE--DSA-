@@ -69,6 +69,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0119-pascals-triangle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -391,6 +392,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Recursion
