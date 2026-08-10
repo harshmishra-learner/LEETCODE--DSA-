@@ -75,6 +75,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
@@ -256,6 +257,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0146-lru-cache](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -348,6 +350,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
