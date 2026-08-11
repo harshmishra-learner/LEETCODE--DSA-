@@ -78,6 +78,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -117,6 +118,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0070-climbing-stairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -220,6 +222,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -260,6 +263,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -280,6 +284,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -397,6 +402,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0078-subsets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
