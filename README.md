@@ -83,6 +83,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
 | [0457-circular-array-loop](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0457-circular-array-loop/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -225,6 +226,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
