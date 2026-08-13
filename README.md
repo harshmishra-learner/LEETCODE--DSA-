@@ -376,6 +376,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -391,6 +392,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -458,6 +460,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0101-symmetric-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -491,4 +494,12 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
