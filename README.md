@@ -97,6 +97,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -428,6 +429,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Design
 | Problem Name | Difficulty |
