@@ -74,6 +74,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
@@ -212,6 +213,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0053-maximum-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0056-merge-intervals](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
@@ -428,6 +431,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -477,6 +481,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
