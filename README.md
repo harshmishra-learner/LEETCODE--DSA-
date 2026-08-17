@@ -83,6 +83,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0283-move-zeroes](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
 | [0457-circular-array-loop](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0457-circular-array-loop/) | Medium |
@@ -215,6 +216,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0148-sort-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -270,6 +273,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -340,6 +344,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +437,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -483,6 +489,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,4 +525,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
