@@ -270,6 +270,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0142-linked-list-cycle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
@@ -330,6 +331,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
