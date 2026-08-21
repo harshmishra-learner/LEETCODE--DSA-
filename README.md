@@ -236,6 +236,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
@@ -280,6 +281,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0457-circular-array-loop](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
@@ -337,6 +339,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0424-longest-repeating-character-replacement](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -350,6 +353,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +449,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0215-kth-largest-element-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -537,6 +542,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
