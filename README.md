@@ -288,6 +288,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +344,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -354,6 +356,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0229-majority-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
