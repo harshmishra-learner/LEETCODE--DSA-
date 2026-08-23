@@ -177,6 +177,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0203-remove-linked-list-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
