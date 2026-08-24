@@ -180,6 +180,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0328-odd-even-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
