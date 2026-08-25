@@ -164,6 +164,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0023-merge-k-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
@@ -192,6 +193,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0027-remove-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0125-valid-palindrome/) | Easy |
