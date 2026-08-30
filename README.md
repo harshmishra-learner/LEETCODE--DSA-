@@ -406,6 +406,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -416,6 +417,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -431,6 +433,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -512,6 +515,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Memoization
