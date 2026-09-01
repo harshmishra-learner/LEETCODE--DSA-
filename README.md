@@ -101,6 +101,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0904-fruit-into-baskets](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -377,6 +378,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -413,6 +415,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +426,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0450-delete-node-in-a-bst](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +446,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0543-diameter-of-binary-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +503,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
