@@ -463,6 +463,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0287-find-the-duplicate-number/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
