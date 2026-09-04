@@ -120,6 +120,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0013-roman-to-integer](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0069-sqrtx/) | Easy |
@@ -471,6 +472,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0021-merge-two-sorted-lists](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0231-power-of-two/) | Easy |
