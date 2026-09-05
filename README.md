@@ -110,6 +110,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [1470-shuffle-the-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3193-count-the-number-of-inversions](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/3193-count-the-number-of-inversions/) | Hard |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Math
