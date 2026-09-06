@@ -595,4 +595,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
