@@ -112,6 +112,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [1480-running-sum-of-1d-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/3193-count-the-number-of-inversions/) | Hard |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Math
@@ -160,6 +161,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0054-spiral-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0067-add-binary/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3847-find-the-score-difference-in-a-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/3847-find-the-score-difference-in-a-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
