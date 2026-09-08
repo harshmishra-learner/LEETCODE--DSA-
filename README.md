@@ -71,6 +71,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0128-longest-consecutive-sequence](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0189-rotate-array/) | Medium |
@@ -269,6 +270,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0118-pascals-triangle](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0877-stone-game/) | Medium |
 | [3193-count-the-number-of-inversions](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Hard/3193-count-the-number-of-inversions/) | Hard |
