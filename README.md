@@ -106,6 +106,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1046-last-stone-weight/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -327,6 +328,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0704-binary-search](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
