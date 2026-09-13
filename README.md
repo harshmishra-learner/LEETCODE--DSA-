@@ -90,6 +90,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0347-top-k-frequent-elements](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0455-assign-cookies/) | Easy |
 | [0457-circular-array-loop](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0457-circular-array-loop/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -222,6 +223,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0345-reverse-vowels-of-a-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0455-assign-cookies/) | Easy |
 | [0457-circular-array-loop](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0457-circular-array-loop/) | Medium |
 | [0567-permutation-in-string](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -256,6 +258,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
@@ -340,6 +343,7 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,4 +617,8 @@ The repository is organized cleanly by logical **DSA Topics**. Each topic folder
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0183-customers-who-never-order/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/harshmishra-learner/LEETCODE--DSA-/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
